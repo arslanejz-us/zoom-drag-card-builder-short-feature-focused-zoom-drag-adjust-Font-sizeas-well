@@ -47,4 +47,9 @@ This project is a **custom member card designer** built with **Fabric.js** and *
 - **template-parts/** contains reusable card templates.  
 
         
+- This is a video link where I have explained everything visually..
 
+- [Video Link](https://www.loom.com/share/4ad7e6bef07d4e9d99832260ee05f7cf)
+
+Author: Arslan Ejaz
+Email: me.arslanejaz@gmail.com
