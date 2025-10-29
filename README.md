@@ -1,5 +1,5 @@
-# Interactive Card Designer with Fabric.js & Interact.js
-
+ 
+# Artwork ( Zoom, drag, focused, zoom drag, adjust Font sizeas well )   Fabric.js & Interact.js
 This project is a **custom member card designer** built with **Fabric.js** and **Interact.js**, allowing users to dynamically edit, position, and style content in real time. It’s designed for use within a web interface (e.g., WordPress or standalone JS app).
 
 ---
