@@ -23,7 +23,7 @@ This project is a **custom member card designer** built with **Fabric.js** and *
 
 - 🎨 **Design Output**
   - Canvas exports as a **high-quality image or PDF**.
-  - Designed for **300 DPI** print resolution.
+  - Designed for **300 DPI** print resolution. 
   - Supports background customization and bleed-safe layout.
 
 ---
